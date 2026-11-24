@@ -1,0 +1,9 @@
+Feature Set,Relation,Recordings,Frames,Frame Accuracy
+EAR + MAR,Both labels,13,39224,0.6882520905568019
+EAR + MAR,Driver not in training,5,18081,0.50207400033184
+EAR + MAR,Opposite label only,16,55714,0.5869978820404207
+EAR + MAR,Same label only,2,5424,0.5099557522123894
+"Full Set, raw angles",Both labels,13,39224,0.7744238221497043
+"Full Set, raw angles",Driver not in training,5,18081,0.5038991206238593
+"Full Set, raw angles",Opposite label only,16,55714,0.5003589761998779
+"Full Set, raw angles",Same label only,2,5424,0.4467182890855457

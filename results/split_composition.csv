@@ -1,0 +1,4 @@
+Split,Training frames,Test frames,Training recordings,Test recordings,Training drivers,Test drivers,Shared drivers,Test drowsy share (%)
+Random frame,487254,121814,178,178,60,60,60,66.8
+Recording held out,490625,118443,142,36,58,26,24,76.79
+Subject held out,474520,134548,142,36,48,12,0,67.44

@@ -1,0 +1,7 @@
+Target,Classes,Feature Set,Accuracy,Most frequent
+Recording,178,EAR + MAR,0.09348,0.01118
+Recording,178,"Head pose, raw",0.52662,0.01118
+Recording,178,"Head pose, sin/cos",0.53546,0.01118
+Driver,60,EAR + MAR,0.12762,0.027
+Driver,60,"Head pose, raw",0.54902,0.027
+Driver,60,"Head pose, sin/cos",0.56248,0.027

@@ -1,0 +1,5 @@
+Comparison,Difference (points),95% CI lower,95% CI upper,Share of draws above 0
+"Bi-LSTM minus Random Forest, EAR + MAR",4.97,1.16,8.72,0.995
+"Bi-LSTM minus Random Forest, Full Set",5.52,-0.85,12.73,0.953
+Bi-LSTM EAR + MAR minus Full Set,2.11,-5.53,10.45,0.701
+Random Forest EAR + MAR minus Full Set,2.66,-4.32,9.62,0.775

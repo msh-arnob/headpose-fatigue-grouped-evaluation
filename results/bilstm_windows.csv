@@ -1,0 +1,5 @@
+Windows,Drivers,Recordings,Frames,Windows (30 frames),Drowsy share (frames),Drowsy share (windows)
+"Subject held out, training drivers",40,117,385404,381894,0.6651228321449699,0.6650300868827476
+"Subject held out, validation drivers",8,25,89116,88366,0.6770950222182324,0.6770703664305275
+"Subject held out, test drivers",12,36,134548,133468,0.6743689984243542,0.674431324362394
+"Random window, all drivers pooled",60,178,609068,603728,0.6689170995685211,0.6688707497416055

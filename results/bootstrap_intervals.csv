@@ -1,0 +1,5 @@
+Model,Balanced Accuracy (%),95% CI lower (%),95% CI upper (%)
+"Random Forest, EAR + MAR",53.35,50.53,56.15
+"Random Forest, Full Set",50.7,42.19,59.03
+"Bi-LSTM, EAR + MAR",58.32,52.15,64.44
+"Bi-LSTM, Full Set",56.22,47.41,65.39
