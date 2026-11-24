@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets, extracted features and trained models (not redistributed; see the README)
+data/
+models/
