@@ -1,0 +1,16 @@
+# Versions used to produce the results (Python 3.9.7, Windows)
+scikit-learn==1.6.1
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.9.4
+seaborn==0.13.2
+joblib==1.5.3
+jupyter
+
+# Needed only for training the Bi-LSTM (RUN_TRAINING = True)
+tensorflow==2.17.0
+keras==3.10.0
+
+# Needed only for feature extraction (RUN_EXTRACTION = True)
+opencv-python==4.13.*
+mediapipe==0.10.10
